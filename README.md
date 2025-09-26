@@ -8,7 +8,7 @@ Telegram group: [GETCID Group1](https://t.me/get_cid)
 
 QQ bot: [3390735069](http://wpa.qq.com/msgrd?v=3&uin=3390735069&site=qq&menu=yes)   
 
-Wechat bot: khun_tony  
+Wechat bot: tc_90222  
 
 ## Microsoft Key Detection Tool
 
