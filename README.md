@@ -5,11 +5,8 @@ Web version: [https://pidkey.vip](https://pidkey.vip/)
 PidKeyBot:  
 Telegram bot: [@laomms](https://t.me/laomms)   [@bkkmms](https://t.me/bkkmms)  
 Telegram group: [GETCID Group1](https://t.me/get_cid)   
-
 Line bot: [@bti0006p](https://line.me/R/ti/p/@bti0006p)   
-
 QQ bot: [3390735069](http://wpa.qq.com/msgrd?v=3&uin=3390735069&site=qq&menu=yes)   
-
 Wechat bot: tc_90222  
             tc_90222  
 
