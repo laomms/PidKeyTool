@@ -6,11 +6,8 @@ Web version: [https://pidkey.vip](https://pidkey.vip/)
 Telegram bot: [@laomms](https://t.me/laomms)  
 Telegram group: [GETCID Group1](https://t.me/get_cid)   
 WhatsApp Bot: [tcbkk](https://wa.me/message/ETQAZKDFCSZCF1)  
-Discord Channel: [GetCID](https://discord.gg/JDygTcRhhZ)  
-Slack Channel: [#get-cid](https://join.slack.com/t/getcid/shared_invite/zt-3fxhdkmc7-pnAkb9D52eYFjVwOWq_sMw)  
-LineBot/Group: [@bti0006p](https://line.me/R/ti/g/pBM6qdZhXA)  
 QQ bot: [3390735069](http://wpa.qq.com/msgrd?v=3&uin=3390735069&site=qq&menu=yes)   
-Wechat Group: ![image](https://raw.githubusercontent.com/laomms/PidKeyTool/master/qr-GetCID.png)
+
 
 ## Microsoft Key Detection Tool
 
