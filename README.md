@@ -1,7 +1,6 @@
 切换 [简体中文](README_zh_CN.md)
 
 # PidKeyTool CN/EN Version
-Web version: [https://pidkey.vip](https://pidkey.vip/)     
 
 Telegram bot: [@laomms](https://t.me/laomms)  
 Telegram group: [GETCID Group1](https://t.me/get_cid)   
